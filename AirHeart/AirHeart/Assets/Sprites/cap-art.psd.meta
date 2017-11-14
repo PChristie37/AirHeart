@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: a92a8a4a661f9409c839936df11833a2
+timeCreated: 1454883931
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cap-art_0
+    21300002: cap-art_1
+    21300004: cap-art_2
+    21300006: cap-art_3
+    21300008: cap-art_4
+    21300010: cap-art_5
+    21300012: cap-art_6
+    21300014: cap-art_7
+    21300016: cap-art_8
+    21300018: cap-art_9
+    21300020: cap-art_10
+    21300022: cap-art_11
+    21300024: cap-art_12
+    21300026: cap-art_13
+    21300028: cap-art_14
+    21300030: cap-art_15
+    21300032: cap-art_16
+    21300034: cap-art_17
+    21300036: cap-art_18
+    21300038: cap-art_19
+    21300040: cap-art_20
+    21300042: cap-art_21
+    21300044: cap-art_22
+    21300046: cap-art_23
+    21300048: cap-art_24
+    21300050: cap-art_25
+    21300052: cap-art_26
+    21300054: cap-art_27
+    21300056: cap-art_28
+    21300058: cap-art_29
+    21300060: cap-art_30
+    21300062: cap-art_31
+    21300064: cap-art_32
+    21300066: cap-art_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cap-art_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 705
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30.5}
+        - {x: -20, y: 22.5}
+        - {x: -20, y: 5.5}
+        - {x: -12, y: -30.5}
+        - {x: 15, y: -30.5}
+        - {x: 20, y: -13.5}
+        - {x: 20, y: 27.5}
+        - {x: 19, y: 30.5}
+    - name: cap-art_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 703
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32.5}
+        - {x: -21, y: 28.5}
+        - {x: -21, y: -32.5}
+        - {x: 19, y: -32.5}
+        - {x: 21, y: -27.5}
+        - {x: 21, y: 26.5}
+        - {x: 19, y: 32.5}
+    - name: cap-art_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 735
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cap-art_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 384
+        width: 247
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123.5, y: 38}
+        - {x: 123.5, y: 131}
+        - {x: 122.5, y: 141}
+        - {x: 97.5, y: 172}
+        - {x: 58.5, y: 188}
+        - {x: -30.5, y: 188}
+        - {x: -39.5, y: 187}
+        - {x: -83.5, y: 163}
+        - {x: -120.5, y: 137}
+        - {x: -123.5, y: 125}
+        - {x: -123.5, y: 50}
+        - {x: -88.5, y: -6}
+        - {x: -71.5, y: -57}
+        - {x: -65.5, y: -180}
+        - {x: -50.5, y: -185}
+        - {x: -17.5, y: -185}
+        - {x: -9.5, y: -177}
+        - {x: -4.5, y: -157}
+        - {x: -6.5, y: -175}
+        - {x: -3.5, y: -183}
+        - {x: -1.5, y: -188}
+        - {x: 43.5, y: -188}
+        - {x: 52.5, y: -186}
+        - {x: 71.5, y: -128}
+        - {x: 65.5, y: -40}
+        - {x: 115.5, y: 22}
+    - name: cap-art_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 631
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 30.5}
+        - {x: -20, y: 30.5}
+        - {x: -20, y: -30.5}
+        - {x: 16, y: -30.5}
+        - {x: 17, y: -29.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 29.5}
+    - name: cap-art_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 631
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 31.5}
+        - {x: -20, y: -21.5}
+        - {x: -17, y: -31.5}
+        - {x: 15, y: -31.5}
+        - {x: 20, y: -21.5}
+        - {x: 20, y: 31.5}
+    - name: cap-art_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 631
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 30.5}
+        - {x: -20, y: 28.5}
+        - {x: -20, y: -30.5}
+        - {x: 18, y: -30.5}
+        - {x: 20, y: -26.5}
+        - {x: 20, y: 30.5}
+    - name: cap-art_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 631
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 31.5}
+        - {x: -20, y: 28.5}
+        - {x: -20, y: -20.5}
+        - {x: -18, y: -31.5}
+        - {x: 12, y: -31.5}
+        - {x: 20, y: -9.5}
+        - {x: 20, y: 27.5}
+        - {x: 19, y: 31.5}
+    - name: cap-art_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 645
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -0.5}
+        - {x: 11.5, y: -1.5}
+        - {x: 9.5, y: 1.5}
+        - {x: -16.5, y: 1.5}
+        - {x: -17.5, y: 0.5}
+        - {x: -17.5, y: -2.5}
+        - {x: -6.5, y: -27.5}
+        - {x: 14.5, y: -27.5}
+        - {x: 22.5, y: -6.5}
+        - {x: 22.5, y: 1.5}
+        - {x: 13.5, y: 1.5}
+      - - {x: 18.5, y: -20.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 20.5, y: -27.5}
+        - {x: 22.5, y: -27.5}
+        - {x: 22.5, y: -17.5}
+        - {x: 21.5, y: -17.5}
+      - - {x: 19.5, y: -15.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 22.5, y: -17.5}
+        - {x: 22.5, y: -9.5}
+        - {x: 19.5, y: -10.5}
+    - name: cap-art_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 645
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cap-art_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 645
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cap-art_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 537
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 32.5}
+        - {x: -24.5, y: 29.5}
+        - {x: -24.5, y: -18.5}
+        - {x: -22.5, y: -32.5}
+        - {x: 24.5, y: -32.5}
+        - {x: 24.5, y: 30.5}
+        - {x: 19.5, y: 32.5}
+    - name: cap-art_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 538
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 35.5}
+        - {x: -24, y: 33.5}
+        - {x: -24, y: -21.5}
+        - {x: -21, y: -35.5}
+        - {x: 21, y: -35.5}
+        - {x: 24, y: -34.5}
+        - {x: 24, y: 26.5}
+        - {x: 19, y: 35.5}
+    - name: cap-art_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 537
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 35}
+        - {x: -24, y: 27}
+        - {x: -24, y: -35}
+        - {x: 15, y: -35}
+        - {x: 24, y: -21}
+        - {x: 24, y: 32}
+        - {x: 11, y: 35}
+    - name: cap-art_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 547
+        width: 173
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: 18}
+        - {x: -86.5, y: -18}
+        - {x: 78.5, y: -18}
+        - {x: 86.5, y: -15}
+        - {x: 86.5, y: 14}
+        - {x: 64.5, y: 18}
+    - name: cap-art_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 446
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 30.5}
+        - {x: -20, y: -30.5}
+        - {x: 16, y: -30.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: 26.5}
+        - {x: 17, y: 30.5}
+    - name: cap-art_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 448
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30}
+        - {x: -20, y: 26}
+        - {x: -20, y: -27}
+        - {x: -18, y: -30}
+        - {x: 14, y: -30}
+        - {x: 20, y: -16}
+        - {x: 20, y: 23}
+        - {x: 14, y: 30}
+    - name: cap-art_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 449
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 30}
+        - {x: -20.5, y: 22}
+        - {x: -20.5, y: -23}
+        - {x: -18.5, y: -30}
+        - {x: 19.5, y: -30}
+        - {x: 20.5, y: -28}
+        - {x: 20.5, y: 30}
+    - name: cap-art_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 448
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30}
+        - {x: -20, y: 26}
+        - {x: -20, y: -27}
+        - {x: -18, y: -30}
+        - {x: 14, y: -30}
+        - {x: 20, y: -16}
+        - {x: 20, y: 23}
+        - {x: 14, y: 30}
+    - name: cap-art_19
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 446
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30.5}
+        - {x: -20, y: 22.5}
+        - {x: -20, y: 5.5}
+        - {x: -12, y: -30.5}
+        - {x: 15, y: -30.5}
+        - {x: 20, y: -13.5}
+        - {x: 20, y: 27.5}
+        - {x: 19, y: 30.5}
+    - name: cap-art_20
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 456
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cap-art_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 456
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cap-art_22
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 447
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cap-art_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 345
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 34.5}
+        - {x: -23, y: 33.5}
+        - {x: -23, y: -34.5}
+        - {x: 17, y: -34.5}
+        - {x: 23, y: -19.5}
+        - {x: 23, y: 34.5}
+    - name: cap-art_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 343
+        width: 107
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 36}
+        - {x: -53.5, y: 33}
+        - {x: -53.5, y: -26}
+        - {x: -41.5, y: -36}
+        - {x: 53.5, y: -36}
+        - {x: 53.5, y: 36}
+    - name: cap-art_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 344
+        width: 197
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.5, y: 31.5}
+        - {x: -98.5, y: -13.5}
+        - {x: -92.5, y: -31.5}
+        - {x: 98.5, y: -31.5}
+        - {x: 98.5, y: -16.5}
+        - {x: 73.5, y: 31.5}
+    - name: cap-art_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 345
+        width: 102
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 22.5}
+        - {x: -51, y: 5.5}
+        - {x: -42, y: -22.5}
+        - {x: 48, y: -22.5}
+        - {x: 51, y: -18.5}
+        - {x: 51, y: 15.5}
+        - {x: 7, y: 22.5}
+    - name: cap-art_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 246
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 36}
+        - {x: -24, y: -36}
+        - {x: 19, y: -36}
+        - {x: 24, y: -6}
+        - {x: 24, y: 36}
+    - name: cap-art_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 245
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 34}
+        - {x: 18.5, y: 35}
+        - {x: -23.5, y: 35}
+        - {x: -23.5, y: -26}
+        - {x: -10.5, y: -35}
+        - {x: 5.5, y: -35}
+        - {x: 11.5, y: -34}
+        - {x: 21.5, y: -32}
+        - {x: 23.5, y: -24}
+    - name: cap-art_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 247
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 33.5}
+        - {x: -24.5, y: 25.5}
+        - {x: -24.5, y: -31.5}
+        - {x: -16.5, y: -33.5}
+        - {x: 19.5, y: -33.5}
+        - {x: 24.5, y: -19.5}
+        - {x: 24.5, y: 30.5}
+        - {x: 23.5, y: 33.5}
+    - name: cap-art_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 246
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 34}
+        - {x: -24.5, y: 30}
+        - {x: -24.5, y: -15}
+        - {x: -13.5, y: -34}
+        - {x: 17.5, y: -34}
+        - {x: 24.5, y: -3}
+        - {x: 24.5, y: 34}
+    - name: cap-art_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 244
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 35}
+        - {x: -7, y: 35}
+        - {x: -25, y: 29}
+        - {x: -25, y: -23}
+        - {x: -12, y: -35}
+        - {x: 16, y: -35}
+        - {x: 22, y: -33}
+        - {x: 25, y: -4}
+        - {x: 25, y: 33}
+    - name: cap-art_32
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 248
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 33.5}
+        - {x: -14.5, y: 33.5}
+        - {x: -23.5, y: 29.5}
+        - {x: -23.5, y: -26.5}
+        - {x: -21.5, y: -33.5}
+        - {x: 18.5, y: -33.5}
+        - {x: 19.5, y: -32.5}
+        - {x: 23.5, y: -8.5}
+        - {x: 23.5, y: 30.5}
+    - name: cap-art_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 245
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -35}
+        - {x: -23.5, y: -35}
+        - {x: -23.5, y: -33}
+        - {x: -25.5, y: -31}
+        - {x: -26.5, y: -31}
+      - - {x: -12.5, y: 35}
+        - {x: -23.5, y: 14}
+        - {x: -23.5, y: -10}
+        - {x: -12.5, y: -35}
+        - {x: 22.5, y: -35}
+        - {x: 26.5, y: -26}
+        - {x: 26.5, y: 29}
+        - {x: 19.5, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

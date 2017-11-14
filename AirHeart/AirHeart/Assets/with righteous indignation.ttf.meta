@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8abaee2c36302456cb0cc9dedd3c0923
+timeCreated: 1510619831
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: with righteous indignation
+  fontNames:
+  - with righteous indignation
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80fc87a55af7941e085751f1aa42f5dc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

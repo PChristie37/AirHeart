@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 0c14804953a784ebaadfc95e6baf1344
+timeCreated: 1458188218
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skel,stones_0
+    21300002: skel,stones_1
+    21300004: skel,stones_2
+    21300006: skel,stones_3
+    21300008: skel,stones_4
+    21300010: skel,stones_5
+    21300012: skel,stones_6
+    21300014: skel,stones_7
+    21300016: skel,stones_8
+    21300018: skel,stones_9
+    21300020: skel,stones_10
+    21300022: skel,stones_11
+    21300024: skel,stones_12
+    21300026: skel,stones_13
+    21300028: skel,stones_14
+    21300030: skel,stones_15
+    21300032: skel,stones_16
+    21300034: skel,stones_17
+    21300036: skel,stones_18
+    21300038: skel,stones_19
+    21300040: skel,stones_20
+    21300042: skel,stones_21
+    21300044: skel,stones_22
+    21300046: skel,stones_23
+    21300048: skel,stones_24
+    21300050: skel,stones_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: skel,stones_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 286
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 286
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 286
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 286
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 286
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 285
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 252
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 249
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 246
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 240
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 202
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 199
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 196
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 190
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 171
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 170
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 128
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 128
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 123
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 122
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 51
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 51
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 51
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: skel,stones_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 51
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
